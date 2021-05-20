@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTableForPrimeNumbers", "MultiplicationTableForPrimeNumbers\MultiplicationTableForPrimeNumbers.csproj", "{23B8200B-CBCC-4D1F-87CC-B6E7FB8FD931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTableForPrimeNumbersTest", "MultiplicationTableForPrimeNumbersTest\MultiplicationTableForPrimeNumbersTest.csproj", "{025E83BD-DE04-410C-B70D-7F08646D07CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B8200B-CBCC-4D1F-87CC-B6E7FB8FD931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B8200B-CBCC-4D1F-87CC-B6E7FB8FD931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B8200B-CBCC-4D1F-87CC-B6E7FB8FD931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B8200B-CBCC-4D1F-87CC-B6E7FB8FD931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025E83BD-DE04-410C-B70D-7F08646D07CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025E83BD-DE04-410C-B70D-7F08646D07CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025E83BD-DE04-410C-B70D-7F08646D07CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025E83BD-DE04-410C-B70D-7F08646D07CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8D6085-4082-468B-B84E-57E0CFCE7430}
+	EndGlobalSection
+EndGlobal

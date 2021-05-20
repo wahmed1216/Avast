@@ -1,0 +1,13 @@
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.exe
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.deps.json
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.runtimeconfig.json
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.runtimeconfig.dev.json
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.dll
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\bin\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.pdb
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.csprojAssemblyReference.cache
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.AssemblyInfo.cs
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.dll
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.pdb
+C:\Users\wahme\source\repos\AvastTask\MultiplicationTableForPrimeNumbers\obj\Debug\netcoreapp3.1\MultiplicationTableForPrimeNumbers.genruntimeconfig.cache
